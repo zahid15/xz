@@ -1,0 +1,21 @@
+.red{
+	background: #f22
+}
+.yellow{
+	background: yellow
+}
+.orange{
+	background: orange	
+}
+.blue{
+	background: skyblue
+}
+.green{
+	background: seagreen
+}
+
+p{
+	margin: 0;
+    padding: 50px 30px;
+    color: #fff;
+    border: 5px solid;
